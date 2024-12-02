@@ -3,7 +3,8 @@
 
 # GCP Secure and Isolated Environment Setup
 
-### [High-Level Architecture Diagram](link_to_your_image)
+### ![High-Level Architecture Diagram](images/ARD.png)
+
 
 ## Overview
 
