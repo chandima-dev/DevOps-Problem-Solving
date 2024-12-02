@@ -1,7 +1,7 @@
 
 ---
 
-# (Task 04) GCP Concepts & Networking
+# (Task 02) GCP Concepts & Networking
 
 ### ![High-Level Architecture Diagram](images/ARD.png)
 
@@ -61,7 +61,7 @@ This setup ensures a **secure** environment by leveraging **private networking**
 - Critical thinking in the areas of **security** and **cost optimization**.
 
 ---
-# (TASK 05) Problem-Solving & Troubleshooting Approach
+# (TASK 05) Problem-Solving & Troubleshooting Scenario
 ### Problem-Solving & Troubleshooting Approach for Network Timeout Between GKE Pods and CloudSQL
 
 #### **Problem Context:**
